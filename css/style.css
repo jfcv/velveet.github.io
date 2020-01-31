@@ -39,6 +39,15 @@ header nav a.active{
   padding: 200px 0 150px;
 }
 
+#home h1{
+  font-size: 68px;
+  font-weight: normal;
+}
+
+#home p {
+  font-size: 24px;
+}
+
 .container {
   width: 992px;
   margin-left: auto;
