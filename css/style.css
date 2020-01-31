@@ -1,3 +1,6 @@
-body {
-  background-color: red;
+
+.home-wrapper {
+  background: url('../images/background.jpg') no-repeat center top;
+  background-size: cover;
+  color: white;
 }
