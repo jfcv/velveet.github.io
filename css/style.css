@@ -49,6 +49,12 @@ header nav a.active{
   font-weight: normal;
 }
 
+#home .divider {
+  width: 80px;
+  border-top: 5px solid #fed136;
+  margin: 0 auto;
+}
+
 #home p {
   font-size: 24px;
 }
