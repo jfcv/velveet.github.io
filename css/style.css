@@ -81,6 +81,27 @@ header nav a.active{
   padding: 10px;
 }
 
+#portafolio {
+  background-color: whitesmoke;
+}
+
+#portafolio .box{
+  display: inline-block;
+  text-align: center;
+  width: 31%;
+  margin: 1%;
+  background-color: white;
+}
+
+#portafolio .box img {
+  width: 100%;
+}
+
+#portafolio .box p {
+  color: #666;
+  padding: 10px;
+}
+
 section {
   padding: 80px 0;
 }
