@@ -25,6 +25,9 @@ Crafting a **Frontend** Site from scratch.
 * Embedding maps.
 * Javascript syntax.
 
+## Challenges
+* The page was loading really slow, and it turns out that the fontawesome link was timing out (didn't know why). So I changed the icons for normal .png's.
+
 ## Good practices
 * Project management, keeping files ordered, folder's structure (/css, /images, /js).
 
