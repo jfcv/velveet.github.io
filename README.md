@@ -6,7 +6,7 @@ Crafting a **Frontend** Site from scratch.
 
 ## Project developed
 
-* A One Page Frontend Web Page **Studio Dev**.
+* A One Page Frontend Web Site **Studio Dev**.
 
 ## Lessons Learned
 
