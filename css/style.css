@@ -63,6 +63,15 @@ header nav a.active{
   margin-top: 80px;
 }
 
+#home .social{
+  display: inline-inline-block;
+}
+
+/*
+
+it couldn't use fontawesome so leave it and use pre-designed icons
+[because it was making the page really slow]
+
 #home .social a {
   color: white;
   display: inline-block;
@@ -82,6 +91,7 @@ header nav a.active{
 #home .social a:hover {
   background-color: #fed136;
 }
+*/
 
 #servicios .box {
   display: inline-block;
