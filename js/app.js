@@ -19,6 +19,13 @@ $(document).ready(function () {
       $(document).on("scroll", onScroll);
     });
   });
+
+  let sendButton = document.getElementById('sendButton');
+
+  sendButton.addEventListener('click', function() {
+    alert('Message sent! Thank You!');  
+  });
+
 });
 
 function onScroll(event){
